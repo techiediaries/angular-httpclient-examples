@@ -1,6 +1,10 @@
-# AngularHttpclientDemo
+# Angular HttpClient Examples (GET, POST , UPDATE, DELETE)
 
 
+## Run Fake Rest API server 
+
+    npm install -g json-server
+    json-server --watch db.json 
 
 ## Development server
 
