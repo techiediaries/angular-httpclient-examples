@@ -1,7 +1,7 @@
 # Angular HttpClient Examples (GET, POST , UPDATE, DELETE)
 
-In this [how-to tutorial](https://www.techiediaries.com/angular-http-client)
-, we'll learn what is  the `HttpClient`  API available from `HttpClientModule` and how to use it in Angular 9 by example with request timeout, responsetype, query parameters, http headers, interceptors, typed and full responses, and error handling. 
+In this [how-to tutorial](https://www.techiediaries.com/angular-http-client/)
+, we'll learn what is  the `HttpClient`  API available from `HttpClientModule` and how to use it in [Angular 9 by example](https://www.techiediaries.com/angular-tutorial/) with request timeout, responsetype, query parameters, http headers, interceptors, typed and full responses, and error handling. 
 
 We'll be seeing examples of common HTTP methods such as GET, PUT, PATCH, POST and DELETE, that you usually need to use when communicating with a server, or consuming and fetching data from a REST API server.
 
@@ -30,8 +30,6 @@ Also read:
 [Angular 7|6 Tutorial: Using Angular HttpClient with Node & Express.js - Example POST Requests](https://www.techiediaries.com/angular-tutorial-httpclient-post/)
 
 [Angular 7|6 By Example: HTTP GET Requests with HttpClient (Services, async pipe and Observables)](https://www.techiediaries.com/angular-by-example-httpclient-get/)
-
-[Angular Http — Angular 6|7 HttpClient Tutorial](https://www.techiediaries.com/angular-http-client)
 
 ## Run Fake Rest API server 
 
