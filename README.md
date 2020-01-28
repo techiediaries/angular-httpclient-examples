@@ -1,4 +1,4 @@
-# Angular HttpClient Examples (GET, POST , UPDATE, DELETE)
+# Angular 9/8/7 HttpClient Examples (GET, POST , UPDATE, DELETE)
 
 In this [how-to tutorial](https://www.techiediaries.com/angular-http-client/)
 , we'll learn what is  the `HttpClient`  API available from `HttpClientModule` and how to use it in [Angular 9 by example](https://www.techiediaries.com/angular-tutorial/) with request timeout, responsetype, query parameters, http headers, interceptors, typed and full responses, and error handling. 
